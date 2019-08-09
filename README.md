@@ -1,1 +1,2 @@
-# Machine-Learning
+Neural Network and Fuzzy Logic Course
+Assignments
